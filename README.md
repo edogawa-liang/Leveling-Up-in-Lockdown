@@ -17,15 +17,27 @@ Specifically, we aim to examine:
 
 
 
-<img src="img/time_USA.png" width="350">
-<img src="img/time_GBR.png" width="350">
+<table>
+  <tr>
+    <td align="center"><b>USA</b><br>
+      <img src="img/time_USA.png" width="420">
+    </td>
+    <td align="center"><b>UK</b><br>
+      <img src="img/time_GBR.png" width="420">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Sweden</b><br>
+      <img src="img/time_SWE.png" width="420">
+    </td>
+    <td align="center"><b>Taiwan</b><br>
+      <img src="img/time_TWN.png" width="420">
+    </td>
+  </tr>
+</table>
 
-*USA*　　　　　　　　　　　　　　*United Kingdom*
+<p align="center"><i>Figure A. Raw ARPDAU time series with policy stringency (dashed line) and intervention period (shaded area).</i></p>
 
-<img src="img/time_SWE.png" width="350">
-<img src="img/time_TWN.png" width="350">
-
-*Sweden*　　　　　　　　　　　　 *Taiwan*
 
 
 
@@ -55,15 +67,27 @@ Specifically, we aim to examine:
 | Taiwan | +7.2% [+0.3, +15.2] | -4.5% [-11.9, +3.9] |
 
 
-<img src="img/USA_Total_ARPDAU_binary.png" width="350">
-<img src="img/GBR_Total_ARPDAU_binary.png" width="350">
+<table>
+  <tr>
+    <td align="center"><b>USA</b><br>
+      <img src="img/USA_Total_ARPDAU_binary.png" width="420">
+    </td>
+    <td align="center"><b>UK</b><br>
+      <img src="img/GBR_Total_ARPDAU_binary.png" width="420">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Sweden</b><br>
+      <img src="img/SWE_Total_ARPDAU_binary.png" width="420">
+    </td>
+    <td align="center"><b>Taiwan</b><br>
+      <img src="img/TWN_Total_ARPDAU_binary.png" width="420">
+    </td>
+  </tr>
+</table>
 
-*Figure 1–2. Average Revenue Per Daily Active User (ARPDAU): causal impact in the USA and UK.*
+<p align="center"><i>Figure 1–4. Average Revenue Per Daily Active User (ARPDAU): causal impact across the USA, UK, Sweden, and Taiwan.</i></p>
 
-<img src="img/SWE_Total_ARPDAU_binary.png" width="350">
-<img src="img/TWN_Total_ARPDAU_binary.png" width="350">
-
-*Figure 3–4. Average Revenue Per Daily Active User (ARPDAU): causal impact in Sweden and Taiwan.*
 
 
 
