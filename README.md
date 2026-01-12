@@ -4,18 +4,16 @@
 
 ## Project Overview
 
-This project studies whether the COVID-19 pandemic **truly caused changes** in the mobile gaming industry, rather than just being correlated with existing trends or seasonality.
+This project studies whether the COVID-19 pandemic **truly caused changes** in the mobile gaming industry, rather than merely being correlated with existing trends or seasonality.
 
-We use **Bayesian Structural Time Series (BSTS)** together with the **CausalImpact** framework to construct a counterfactual scenario where COVID did not happen, and then compare it with the observed data.
+**Bayesian Structural Time Series (BSTS)** and the **CausalImpact** framework are used to construct a counterfactual scenario in which COVID did not occur, and to compare it with the observed data.
 
-Specifically, we aim to examine:
+Specifically, the analysis examines:
 
 * Whether COVID led to noticeable changes in mobile gaming metrics
-* How large the causal effects were
+* The magnitude of the causal effects
 * Whether the effects were short-term or long-lasting
 * Whether the impact differed across countries (USA, UK, Sweden, and Taiwan)
-
-
 
 <table>
   <tr>
