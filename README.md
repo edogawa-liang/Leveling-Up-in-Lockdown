@@ -43,11 +43,11 @@ Specifically, the analysis examines:
 ## Folder Structure
 
 ```bash
-├── PDF Documents  
+├── reports  
 │   ├── Leveling_Up_in_Lockdown.pdf      # Report  
 │   └── Slide_Leveling_Up_in_Lockdown.pdf # Presentation slides  
 │
-├── Developer
+├── analysis
 │   ├── preprocessing.R # Data loading and preprocessing
 │   ├── eda.R           # Exploratory data analysis  
 │   ├── bsts.R          # BSTS causal impact analysis  
